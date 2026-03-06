@@ -1,0 +1,9 @@
+/* Importações do Tailwind CSS */
+@import "tailwindcss";
+
+/* Estilos base */
+@layer base {
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "theme": "forest",
+  "github": "FRFreire-GIT",
+  "profile": {
+    "name": "Fernando Freire",
+    "handle": "Fernando Rodrigues Freire, 2026",
+    "avatar": "https://github.com/fefreirer.png",
+    "banner": "src/assets/image.png",
+    "bio": "Desenvolvedor Full Stack apaixonado por criar soluções eficientes e criativas. React, Node.js e PHP são minhas ferramentas favoritas. Infelizmente sou fã da Nintendo.",
+    "location": "Brasília, Brasil",
+    "resumeUrl": "https://drive.google.com/file/d/1fGoY9oiALSIaWZiCdlsx9xn2AF9JGKKF/view",
+    "email": "freirefernandor@gmail.com"
+  },
+  "roles": [
+    "Desenvolvedor Full Stack",
+    "Desenvolvedor Mobile"
+  ],
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/fefreirer",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/fernando-rodrigues-freire",
+      "icon": "linkedin"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "icon": "code",
+      "color": "#61DAFB"
+    },
+    {
+      "name": "PHP",
+      "icon": "code",
+      "color": "#474A8A"
+    },
+    {
+      "name": "Laravel",
+      "icon": "code",
+      "color": "#FF2D20"
+    },
+    {
+      "name": "Adonis.js",
+      "icon": "code",
+      "color": "#787CB5"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "code",
+      "color": "#3178C6"
+    },
+    {
+      "name": "Node.js",
+      "icon": "server",
+      "color": "#68A063"
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "palette",
+      "color": "#06B6D4"
+    },
+    {
+      "name": "Next.js",
+      "icon": "zap",
+      "color": "#000000"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "database",
+      "color": "#336791"
+    },
+    {
+      "name": "Git",
+      "icon": "git-branch",
+      "color": "#F05032"
+    },
+    {
+      "name": "Docker",
+      "icon": "box",
+      "color": "#2496ED"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ministério de Relações Exteriores - G4F",
+      "role": "Desenvolvedor Full Stack Pleno",
+      "type": "Full-time",
+      "period": "Agosto 2023 - Fevereiro 2026",
+      "location": "Remoto",
+      "details": [
+        "Desenvolvimento de aplicações web escaláveis usando React e Zend Framework",
+        "Implementação de testes unitários aumentando cobertura em 80%",
+        "Correções de código para atendimento de requisitos de segurança, manutenibilidade e qualidade"
+      ]
+    },
+    {
+      "company": "Atacadão Dia a Dia",
+      "role": "Desenvolvedor Fullstack Pleno",
+      "type": "Full-time",
+      "period": "Julho 2021 - Dezembro 2022",
+      "location": "Brasília, DF",
+      "details": [
+        "Criação de interfaces de estoque com Bootstrap, jQuery e PHP",
+        "Documentação de APIs RESTful para integração com sistemas legados e novas aplicações",
+        "Evolução de sistemas internos para otimização de processos logísticos"
+      ]
+    },
+    {
+      "company": "Fiocruz - Life Tecnologia e Consultoria",
+      "role": "Desenvolvedor Fullstack Júnior",
+      "type": "Full-time",
+      "period": "Outubro 2020 - Julho 2021",
+      "location": "Rio de Janeiro, RJ",
+      "details": [
+        "Mapeamento, documentação e melhorias de arquiteturas de bancos de dados PostgreSQL",
+        "Criação de backend atendendo o mapeamento da base de dados e regras negociais utilizando Laravel"
+      ]
+    },
+    {
+      "company": "Strong Tecnologia",
+      "role": "Desenvolvedor Fullstack Júnior",
+      "type": "Full-time",
+      "period": "Fevereiro 2020 - Março 2020",
+      "location": "Brasília, DF",
+      "details": [
+        "Desenvolvimento de sites publicitários utilizando React e Laravel",
+        "Construção de jogos web para captação de leads"
+      ]
+    },
+    {
+      "company": "Divisão Zero Tecnologia",
+      "role": "Desenvolvedor Fullstack Júnior",
+      "type": "Full-time",
+      "period": "Junho 2019 - Fevereiro 2020",
+      "location": "Brasília, DF",
+      "details": [
+        "Criação de aplicações web utilizando Vue.js e Laravel para clientes na área de consórcios",
+        "Construção de jogos com C, C#, Arduino e Unity",
+        "Desenvolvimento de sprites para jogos 2D"
+      ]
+    },
+    {
+      "company": "Projeto Educacional: CPA Bay Area - IESB",
+      "role": "Desenvolvedor Fullstack Júnior",
+      "type": "Full-time",
+      "period": "Agosto 2017 - Março 2018",
+      "location": "Brasília, DF",
+      "details": [
+        "Criação de aplicações web internas utilizando Bootstrap e Laravel",
+        "Criação de documentação técnica para sistemas a serem desenvolvidos"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontifícia Universidade Católica do Paraná - PUC-PR",
+      "degree": "Pós Graduação",
+      "field": "Desenvolvimento de Aplicativos Mobile",
+      "period": "2025 - 2027 (previsto)",
+      "location": "EAD",
+      "grade": "-",
+      "details": [
+        "Foco em desenvolvimento mobile com React Native, Kotlin, Swift e Flutter",
+        "Desenvolvimento de designs responsivos e acessíveis para múltiplas plataformas com Figma",
+        "Estruturação de diversas arquiteturas de software mobile"
+      ]
+    },
+    {
+      "institution": "Instituto de Educação Superior de Brasília - IESB",
+      "degree": "Graduação",
+      "field": "Análise e Desenvolvimento de Sistemas",
+      "period": "2017 - 2020",
+      "location": "Brasília, Brasil",
+      "grade": "8.5/10",
+      "details": [
+        "Foco na prática de desenvolvimento de software com diversas linguagens e frameworks (C, Java, JavaFX, PHP, Laravel, Javascript, SQL)",
+        "Análise e desenvolvimento de documentações para APIs e sistemas web"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "T20 - Dashboard para RPG",
+      "slug": "t20-dashboard-para-rpg",
+      "description": "Plataforma completa de gerenciamento de campanhas de RPG, com criação de personagens, gestão de inventário e linha do tempo da campanha",
+      "image": "public/dashboard-rpg.png",
+      "tags": ["React", "Node.js", "Adonis.js", "SQLite", "Tailwind"],
+      "github": "https://github.com/FRFreire-git/T20",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Vôlei Score - Gerenciador de partidas",
+      "slug": "volei-score",
+      "description": "Gerenciador de partidas de vôlei, com placar em tempo real, estatísticas de jogadores e histórico de partidas",
+      "image": "public/volei-score.png",
+      "tags": ["Kotlin", "Materialize", "SQLite"],
+      "github": "https://github.com/FRFreire-git/volei-score",
+      "demo": "",
+      "featured": true
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "react-performance",
+      "title": "Otimizando Performance em React",
+      "date": "2024-01-15",
+      "excerpt": "Técnicas avançadas para melhorar o desempenho de aplicações React",
+      "tags": ["React", "Performance"],
+      "readingTime": "5 min"
+    },
+    {
+      "slug": "typescript-tips",
+      "title": "TypeScript: Dicas Essenciais",
+      "date": "2024-01-08",
+      "excerpt": "Melhores práticas e truques para dominar TypeScript",
+      "tags": ["TypeScript", "Tips"],
+      "readingTime": "7 min"
+    }
+  ],
+  "quotes": [
+    "O código é como humor. Quando você tem que explicá-lo, é ruim.",
+    "Primeiro, resolva o problema. Depois, escreva o código.",
+    "A melhor maneira de prever o futuro é inventá-lo.",
+    "Simplicidade é a sofisticação máxima."
+  ]
+}

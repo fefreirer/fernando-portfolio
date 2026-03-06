@@ -9,7 +9,6 @@ import Education from './Education';
 import Projects from './Projects';
 // import Blog from './Blog';
 import Footer from './Footer';
-import LanguageSwitcher from './LanguageSwitcher';
 import type { PortfolioData } from '../types/portfolio';
 
 interface PortfolioProps {
@@ -23,9 +22,6 @@ function PortfolioContent({ data }: PortfolioProps) {
 
   return (
     <div style={{ backgroundColor: colors.background, minHeight: '100vh' }}>
-      {/* Switcher de idioma */}
-      <LanguageSwitcher />
-      
       {/* Padrão de fundo com pontos */}
       <div
         className="fixed inset-0 pointer-events-none"

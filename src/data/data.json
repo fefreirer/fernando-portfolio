@@ -5,15 +5,15 @@
     "name": "Fernando Freire",
     "handle": "Fernando Rodrigues Freire, 2026",
     "avatar": "https://github.com/fefreirer.png",
-    "banner": "src/assets/image.png",
-    "bio": "Desenvolvedor Full Stack apaixonado por criar soluções eficientes e criativas. React, Node.js e PHP são minhas ferramentas favoritas. Infelizmente sou fã da Nintendo.",
-    "location": "Brasília, Brasil",
-    "resumeUrl": "https://drive.google.com/file/d/1fGoY9oiALSIaWZiCdlsx9xn2AF9JGKKF/view",
+    "banner": "https://wallpapercave.com/wp/wp12278081.jpg",
+    "bio": "Fullstack Software Engineer passionate about creating efficient and creative solutions. React, Node.js, and PHP are my favorite tools. Unfortunately, I'm a fan of Nintendo.",
+    "location": "Brasília, Brazil",
+    "resumeUrl": "https://drive.google.com/file/d/18onv6unrJxNqXI0BpuNlOL-OaUjdKJ2m/view",
     "email": "freirefernandor@gmail.com"
   },
   "roles": [
-    "Desenvolvedor Full Stack",
-    "Desenvolvedor Mobile"
+    "Fullstack Software Engineer",
+    "Mobile Developer"
   ],
   "socials": [
     {
@@ -87,108 +87,109 @@
   "experience": [
     {
       "company": "Ministério de Relações Exteriores - G4F",
-      "role": "Desenvolvedor Full Stack Pleno",
+      "role": "Mid-level Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Agosto 2023 - Fevereiro 2026",
-      "location": "Remoto",
+      "period": "August 2023 - February 2026",
+      "location": "Remote",
       "details": [
-        "Desenvolvimento de aplicações web escaláveis usando React e Zend Framework",
-        "Implementação de testes unitários aumentando cobertura em 80%",
-        "Correções de código para atendimento de requisitos de segurança, manutenibilidade e qualidade"
+        "Developed high-impact full-stack solutions for Brazil’s Ministry of Foreign Affairs using PHP, Zend Framework, Doctrine ORM, PostgreSQL, React, and Angular serving 10,000+ diplomatic staff across 200+ international posts",
+        "Improved system performance by 40% by restructuring backend services, reducing API calls and optimizing database queries across multiple high-traffic screens",
+        "Increased unit test coverage from 45% to 80% by actively creating and fixing test suites, strengthening code quality and reducing production bugs by 35%",
+        "Architected scalable front-end components in React and Angular reducing page load times by 30% through code splitting and lazy loading strategies"
       ]
     },
     {
       "company": "Atacadão Dia a Dia",
-      "role": "Desenvolvedor Fullstack Pleno",
+      "role": "Mid-level Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Julho 2021 - Dezembro 2022",
+      "period": "July 2021 - December 2022",
       "location": "Brasília, DF",
       "details": [
-        "Criação de interfaces de estoque com Bootstrap, jQuery e PHP",
-        "Documentação de APIs RESTful para integração com sistemas legados e novas aplicações",
-        "Evolução de sistemas internos para otimização de processos logísticos"
+        "Developed meeting scheduling platform connecting internal teams with 200+ suppliers, reducing coordination time by 50% and improving vendor relationship management",
+        "Created barcode-based inventory withdrawal system for meat and produce departments, streamlining stock management workflow and reducing processing time by 60%",
+        "Engineered product registration application managing supplier data, taxation rules, promotions, images, and wholesale categories for 50,000+ SKUs"
       ]
     },
     {
       "company": "Fiocruz - Life Tecnologia e Consultoria",
-      "role": "Desenvolvedor Fullstack Júnior",
+      "role": "Junior Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Outubro 2020 - Julho 2021",
+      "period": "October 2020 - July 2021",
       "location": "Rio de Janeiro, RJ",
       "details": [
-        "Mapeamento, documentação e melhorias de arquiteturas de bancos de dados PostgreSQL",
-        "Criação de backend atendendo o mapeamento da base de dados e regras negociais utilizando Laravel"
+        "Developed automated ETL process migrating 750,000+ student records from legacy system to Laravel 8 with zero downtime, scheduled via CRON for off-peak execution",
+        "Created detailed mapping documentation between legacy and new database schemas, ensuring data integrity and facilitating smooth migration process"
       ]
     },
     {
       "company": "Strong Tecnologia",
-      "role": "Desenvolvedor Fullstack Júnior",
+      "role": "Junior Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Fevereiro 2020 - Março 2020",
+      "period": "February 2020 - March 2020",
       "location": "Brasília, DF",
       "details": [
-        "Desenvolvimento de sites publicitários utilizando React e Laravel",
-        "Construção de jogos web para captação de leads"
+        "Built promotional websites for marketing agency clients, delivering responsive designs and optimized performance",
+        "Implemented database-driven features and custom backend logic meeting diverse client requirements and business objectives"
       ]
     },
     {
       "company": "Divisão Zero Tecnologia",
-      "role": "Desenvolvedor Fullstack Júnior",
+      "role": "Junior Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Junho 2019 - Fevereiro 2020",
+      "period": "June 2019 - February 2020",
       "location": "Brasília, DF",
       "details": [
-        "Criação de aplicações web utilizando Vue.js e Laravel para clientes na área de consórcios",
-        "Construção de jogos com C, C#, Arduino e Unity",
-        "Desenvolvimento de sprites para jogos 2D"
+        "Built custom punch machine game with hardware integration, including C/C# scripts to interpret Arduino weight sensor data ensuring accurate real-time communication",
+        "Designed vector graphics for game interface inspired by Street Fighter II bonus stage, delivering polished user experience",
+        "Created complete web platform for payroll lending sector featuring lead registration, advanced consortium letter filtering, and interactive calculators with demonstration tutorials"
       ]
     },
     {
       "company": "Projeto Educacional: CPA Bay Area - IESB",
-      "role": "Desenvolvedor Fullstack Júnior",
+      "role": "Junior Fullstack Software Engineer",
       "type": "Full-time",
-      "period": "Agosto 2017 - Março 2018",
+      "period": "August 2017 - March 2018",
       "location": "Brasília, DF",
       "details": [
-        "Criação de aplicações web internas utilizando Bootstrap e Laravel",
-        "Criação de documentação técnica para sistemas a serem desenvolvidos"
+        "Developed internal applications using PHP and Laravel addressing specific institutional needs for educational institution",
+        "Contributed to initial phases of Brasilia National Forest (FLONA) mapping project, establishing technical scope and system architecture foundations"
       ]
     }
   ],
   "education": [
     {
       "institution": "Pontifícia Universidade Católica do Paraná - PUC-PR",
-      "degree": "Pós Graduação",
-      "field": "Desenvolvimento de Aplicativos Mobile",
-      "period": "2025 - 2027 (previsto)",
+      "degree": "Postgraduate",
+      "field": "Mobile Application Development",
+      "period": "2025 - 2027 (expected)",
       "location": "EAD",
       "grade": "-",
       "details": [
-        "Foco em desenvolvimento mobile com React Native, Kotlin, Swift e Flutter",
-        "Desenvolvimento de designs responsivos e acessíveis para múltiplas plataformas com Figma",
-        "Estruturação de diversas arquiteturas de software mobile"
+        "Focus on mobile development with React Native, Kotlin, Swift, and Flutter",
+        "Development of responsive and accessible designs for multiple platforms with Figma",
+        "Structuring various mobile software architectures"
       ]
     },
     {
       "institution": "Instituto de Educação Superior de Brasília - IESB",
-      "degree": "Graduação",
-      "field": "Análise e Desenvolvimento de Sistemas",
+      "degree": "Bachelor's",
+      "field": "Systems Analysis and Development",
       "period": "2017 - 2020",
-      "location": "Brasília, Brasil",
+      "location": "Brasília, Brazil",
       "grade": "8.5/10",
       "details": [
-        "Foco na prática de desenvolvimento de software com diversas linguagens e frameworks (C, Java, JavaFX, PHP, Laravel, Javascript, SQL)",
-        "Análise e desenvolvimento de documentações para APIs e sistemas web"
+        "Focus on practical software development with various languages and frameworks (C, Java, JavaFX, PHP, Laravel, Javascript, SQL)",
+        "Analysis and development of documentation for APIs and web systems"
       ]
     }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "T20 - Dashboard para RPG",
-      "slug": "t20-dashboard-para-rpg",
-      "description": "Plataforma completa de gerenciamento de campanhas de RPG, com criação de personagens, gestão de inventário e linha do tempo da campanha",
-      "image": "public/dashboard-rpg.png",
+      "title": "T20 - Dashboard for RPG",
+      "slug": "t20-dashboard-for-rpg",
+      "description": "Complete platform for managing RPG campaigns, with character creation, inventory management, and campaign timeline",
+      "image": "https://wallpapercave.com/wp/wp4110725.jpg",
       "tags": ["React", "Node.js", "Adonis.js", "SQLite", "Tailwind"],
       "github": "https://github.com/FRFreire-git/T20",
       "demo": "",
@@ -196,10 +197,10 @@
     },
     {
       "id": "2",
-      "title": "Vôlei Score - Gerenciador de partidas",
-      "slug": "volei-score",
-      "description": "Gerenciador de partidas de vôlei, com placar em tempo real, estatísticas de jogadores e histórico de partidas",
-      "image": "public/volei-score.png",
+      "title": "Volleyball Score - Match Manager",
+      "slug": "volleyball-score",
+      "description": "Volleyball match manager, with real-time scoreboard, player statistics, and match history",
+      "image": "https://wallpapercave.com/uwp/uwp4507350.png",
       "tags": ["Kotlin", "Materialize", "SQLite"],
       "github": "https://github.com/FRFreire-git/volei-score",
       "demo": "",
@@ -209,9 +210,9 @@
   "blogs": [
     {
       "slug": "react-performance",
-      "title": "Otimizando Performance em React",
+      "title": "Optimizing Performance in React",
       "date": "2024-01-15",
-      "excerpt": "Técnicas avançadas para melhorar o desempenho de aplicações React",
+      "excerpt": "Advanced techniques to improve the performance of React applications",
       "tags": ["React", "Performance"],
       "readingTime": "5 min"
     },

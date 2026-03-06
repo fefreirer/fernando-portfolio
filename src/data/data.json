@@ -191,7 +191,7 @@
       "description": "Complete platform for managing RPG campaigns, with character creation, inventory management, and campaign timeline",
       "image": "https://wallpapercave.com/wp/wp4110725.jpg",
       "tags": ["React", "Node.js", "Adonis.js", "SQLite", "Tailwind"],
-      "github": "https://github.com/FRFreire-git/T20",
+      "github": "https://github.com/fefreirer/T20",
       "demo": "",
       "featured": true
     },
@@ -202,7 +202,7 @@
       "description": "Volleyball match manager, with real-time scoreboard, player statistics, and match history",
       "image": "https://wallpapercave.com/uwp/uwp4507350.png",
       "tags": ["Kotlin", "Materialize", "SQLite"],
-      "github": "https://github.com/FRFreire-git/volei-score",
+      "github": "https://github.com/fefreirer/volei-score",
       "demo": "",
       "featured": true
     }

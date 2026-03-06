@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState, useEffect } from 'react';
-import { Download, Mail, Calendar, Sun, Moon, MapPin } from 'lucide-react';
+import { Download, Sun, Moon, MapPin } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 import { useLanguage } from '../context/LanguageContext';
 import { ANIMATION } from '../lib/constants';

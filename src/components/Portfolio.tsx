@@ -72,8 +72,8 @@ function PortfolioContent({ data }: PortfolioProps) {
         {/* Blog */}
         {/* <Blog blogs={data.blogs} /> */}
 
-        {/* Footer com citação */}
-        <Footer quotes={data.quotes} handle={data.profile.handle} />
+        {/* Footer */}
+        <Footer handle={data.profile.handle} />
       </motion.div>
     </div>
   );

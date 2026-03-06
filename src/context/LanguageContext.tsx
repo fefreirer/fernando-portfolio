@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, ReactNode, type FC } from 'react';
+import { createContext, useContext, useState, type ReactNode, type FC } from 'react';
 import { translations, type Language, type Translations } from '../lib/i18n';
 
 interface LanguageContextType {

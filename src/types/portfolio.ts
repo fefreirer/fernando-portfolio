@@ -81,5 +81,4 @@ export interface PortfolioData {
   education: Education[];
   projects: Project[];
   blogs: BlogPost[];
-  quotes: string[];
 }

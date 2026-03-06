@@ -120,7 +120,7 @@ export default function Hero({ profile, roles, socials }: HeroProps) {
             }}
           >
             <Download className="w-3 h-3" />
-            Currículo
+            Resume
           </motion.a>
         </div>
 

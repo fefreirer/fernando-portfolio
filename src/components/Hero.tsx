@@ -4,7 +4,6 @@ import { Download, Sun, Moon, MapPin } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 import { useLanguage } from '../context/LanguageContext';
 import { ANIMATION } from '../lib/constants';
-import { getGradient } from '../lib/themes';
 import type { Profile, Social } from '../types/portfolio';
 
 // Componente de ícone social reutilizável
